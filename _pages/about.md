@@ -63,7 +63,7 @@ Work Experiences
 Publication
 ------
 CIE RADAR 2021——bad work
-<br>More works Coming soon!
+<br>More works coming soon!
 
 Sports
 ------
