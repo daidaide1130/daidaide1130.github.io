@@ -33,7 +33,7 @@ Education
 </div>
 
 <div class="media">
-    <span class="pull-left"><img src="images/seu.png" width="75px" height="75px"/></span>
+    <span class="pull-left"><img src="images/sjtu.png" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">Master Electronics and Communication Engineering</span></div>
         <div>Shanghaijiaotong University, 2026</div>
@@ -62,7 +62,12 @@ Work Experiences
 
 Publication
 ------
+CIE RADAR 2021——bad work
 Coming soon!
+
+Sports
+------
+swimming，badminton and running.
 
 Travel
 ------
