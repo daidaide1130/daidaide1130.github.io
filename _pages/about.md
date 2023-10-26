@@ -97,5 +97,5 @@ Technical Skills
 
 ### Systems
 [![](https://img.shields.io/badge/Windows-0067B8?style=for-the-badge&logo=windows%2011&logoColor=white)]()
-[![](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS%2011&logoColor=white)]()
+[![](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macOS%2011&logoColor=white)]()
 
