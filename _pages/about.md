@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my little world"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 Reseach Interests
 ======
-IRS，wireless communications，IoT，ISAC
+IRS，Wireless Communications，IoT，ISAC
 
 Education
 ------
@@ -51,34 +51,46 @@ Work Experiences
     </div>
 </div>
 
+<div class="media">
+    <span class="pull-left"><img src="images/ali.png" width="75px" height="75px"/></span>
+    <div class="media-body">
+        <div><span style="font-weight: bold">Intern</span></div>
+        <div>Alibaba</div>
+        <div>Java Software Engineer, 2023-2023</div>
+    </div>
+</div>
 
+Publication
+------
+Coming soon!
+
+Travel
+------
+I have traveled to various cities and countries including Beijing, Shanghai, Wuhan, Nanjing, Hangzhou, Shenzhen, Xiamen, Xi'an, Taiwan, Japan, Thailand, Bali, the United Kingdom, France, Switzerland, Germany, Luxembourg, the Netherlands, Belgium, and Austria. I hope to find like-minded friends to explore more places together.
 
 
 Technical Skills
 ------
 
 ### Languages & Libraries
-
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)]()
-[![](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+[![](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white)]()
+
 [![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)]()
 
-[![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)]()
-[![](https://img.shields.io/badge/Rospy-22314E?style=for-the-badge&logo=ros&logoColor=white)]()
-[![](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)]()
-[![](https://img.shields.io/badge/Jupiter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)]()
-[![](https://img.shields.io/badge/Scikit%20learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)]()
+
 
 ### Software & Hardware
-[![](https://img.shields.io/badge/Mujuco-412991?style=for-the-badge&logo=mujuco&logoColor=white)]()
-[![](https://img.shields.io/badge/Openai%20Gym-0081A5?style=for-the-badge&logo=openaigym&logoColor=white)]()
-[![](https://img.shields.io/badge/Ros-22314E?style=for-the-badge&logo=ros&logoColor=white)]()
+[![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)]()
+[![](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
+[![](https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)]()
 
-[![](https://img.shields.io/badge/Kinova-1A1F6C?style=for-the-badge&logo=kinova&logoColor=white)]()
-[![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
+
 
 ### Systems
-[![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![](https://img.shields.io/badge/Windows-0067B8?style=for-the-badge&logo=windows%2011&logoColor=white)]()
+[![](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS%2011&logoColor=white)]()
+
