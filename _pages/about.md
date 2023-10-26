@@ -8,7 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Reseach Interests
+======
+Human-Robot Collaboration & Control, Learning, Computer Vision
+
+Education
+------
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<style type="text/css">
+*{padding:0;margin:0;}
+.media{width:100%;margin:0 auto;border:0 solid #ccc;padding:10px 0;}
+.media:after{clear:both;display:block;width:0;height:0;content:""}
+.pull-left{float:left;border:0 solid #ccc}
+.pull-left img{width:75px;}
+.media-body{width:70%;float:left;margin-left:10px;}
+</style>
+
+<div class="media">
+    <span class="pull-left"><img src="images/seu.png" width="75px" height="75px"/></span>
+    <div class="media-body">
+        <div><span style="font-weight: bold">B.E. Automation</span></div>
+        <div>Southeastern University, 2023</div>
+    </div>
+</div>
 
 A data-driven personal website
 ======
