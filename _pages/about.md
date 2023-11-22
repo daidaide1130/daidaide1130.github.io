@@ -28,7 +28,7 @@ Education
     <span class="pull-left"><img src="images/seu.png" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">B.E. Information Engineering</span></div>
-        <div>Southeastern University, 2023</div>
+        <div>Southeast University, 2023</div>
     </div>
 </div>
 
